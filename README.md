@@ -37,6 +37,12 @@ Gui-wifispeedtester is a Gui(Graphical User Interface) Wifi Speed Testing Softwa
 
 ### Example : ###
 
+<h6>Android</h6>
+
+![Screenshot_2021-02-09-10-19-37-971_com overlook android fing](https://user-images.githubusercontent.com/69615463/107326093-12bebb00-6ad5-11eb-84d3-c542b452cae0.jpg)
+
+<h6>Linux</h6>
+
 
 ![Screenshot from 2021-02-09 10-37-17](https://user-images.githubusercontent.com/69615463/107319041-34657580-6ac8-11eb-9df4-92a9d50fdb54.png)
 
